@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "postgres-xserver": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-postgres",
+        "postgresql://usuario:password@localhost:5432/xiptv_xserver"
+      ],
+      "env": {}
+    },
+    "postgres-xclient": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-postgres",
+        "postgresql://usuario:password@localhost:5432/xiptv_xclient"
+      ],
+      "env": {}
+    }
+  }
+}

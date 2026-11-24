@@ -1,0 +1,149 @@
+[
+  {
+    "menuid": "clients",
+    "name": "Clientes",
+    "description": "Gestión de Clientes / Tenants",
+    "status": "enabled",
+    "tenantrole": "distributor"
+  },
+  {
+    "menuid": "isdbtchannels",
+    "name": "ISDBT Channels",
+    "description": "Canales ISDBT / TDT",
+    "status": "enabled",
+    "tenantrole": "distributor"
+  },
+  {
+    "menuid": "sourcechannels",
+    "name": "Source Channels",
+    "description": "Canales de Origen",
+    "status": "enabled",
+    "tenantrole": "distributor"
+  },
+  {
+    "menuid": "devices",
+    "name": "Dispositivos",
+    "description": "Gestión de Dispositivos / Encoders",
+    "status": "enabled",
+    "tenantrole": "distributor"
+  },
+  {
+    "menuid": "isdbtdevices",
+    "name": "Dispositivos ISDBT",
+    "description": "Dispositivos de Captura ISDBT",
+    "status": "enabled",
+    "tenantrole": "distributor"
+  },
+  {
+    "menuid": "isdbtpositions",
+    "name": "Posiciones ISDBT",
+    "description": "Posiciones de Transmisión ISDBT",
+    "status": "enabled",
+    "tenantrole": "distributor"
+  },
+  {
+    "menuid": "irdencoders",
+    "name": "IRD y Encoders",
+    "description": "Listado de IRDs y Encoders",
+    "status": "enabled",
+    "tenantrole": "distributor"
+  },
+  {
+    "menuid": "dvbzones",
+    "name": "Zonas DVB",
+    "description": "Zonas y Coberturas DVB",
+    "status": "enabled",
+    "tenantrole": "distributor"
+  },
+  {
+    "menuid": "monitoring",
+    "name": "Monitoreo",
+    "description": "Monitoreo en Tiempo Real y Telemetría",
+    "status": "enabled",
+    "tenantrole": "all"
+  },
+  {
+    "menuid": "syncagents",
+    "name": "Agentes VOD",
+    "description": "Agentes de Sincronización Remota",
+    "status": "enabled",
+    "tenantrole": "all"
+  },
+  {
+    "menuid": "uploads",
+    "name": "Upload Channels",
+    "description": "Carga de Canales / Ingesta",
+    "status": "enabled",
+    "tenantrole": "all"
+  },
+  {
+    "menuid": "dashboard",
+    "name": "Dashboard",
+    "description": "Panel de Control Principal",
+    "status": "enabled",
+    "tenantrole": "all"
+  },
+  {
+    "menuid": "tenants",
+    "name": "Tenants",
+    "description": "Gestión de Tenants / Clientes",
+    "status": "enabled",
+    "tenantrole": "all"
+  },
+  {
+    "menuid": "kanban",
+    "name": "Incidentes / Kanban",
+    "description": "Tablero Kanban de Incidentes",
+    "status": "enabled",
+    "tenantrole": "all"
+  },
+  {
+    "menuid": "livechannels",
+    "name": "Live Channels",
+    "description": "Canales en Vivo",
+    "status": "enabled",
+    "tenantrole": "all"
+  },
+  {
+    "menuid": "fastchannels",
+    "name": "24/7 Channels",
+    "description": "Canales Continuos 24/7",
+    "status": "enabled",
+    "tenantrole": "all"
+  },
+  {
+    "menuid": "videos",
+    "name": "Videos",
+    "description": "Gestión de Videos VOD",
+    "status": "enabled",
+    "tenantrole": "all"
+  },
+  {
+    "menuid": "movies",
+    "name": "Películas",
+    "description": "Catálogo de Películas VOD",
+    "status": "enabled",
+    "tenantrole": "all"
+  },
+  {
+    "menuid": "tvshows",
+    "name": "Series",
+    "description": "Catálogo de Series VOD",
+    "status": "enabled",
+    "tenantrole": "all"
+  },
+  {
+    "menuid": "upcomingmovies",
+    "name": "Películas Por Estrenar",
+    "description": "Próximos Estrenos VOD",
+    "status": "enabled",
+    "tenantrole": "all"
+  },
+  {
+    "menuid": "users",
+    "name": "Usuarios",
+    "description": "Gestión de Usuarios del Tenant",
+    "status": "enabled",
+    "tenantrole": "all"
+  }
+]
