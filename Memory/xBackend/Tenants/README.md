@@ -57,4 +57,5 @@ Su objetivo es mantener una bitácora viva y técnica por cabecera/cliente con s
 
 | Tenant ID | Posición | Nombre | Modulador(es) | IRD | Canales | Problemas Abiertos | Última Act. | Bitácora |
 | :--- | :---: | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
-| *(sin registros aún — se crea dinámicamente al operar)* | — | — | — | — | — | — | — | — |
+| `server109` | `109` | Bolivar | `IPM24C` (16 MUX) | `ECD2416` | `Sin relevar` | 0 | `2026-11-24` | [`server109/MEMORY.md`](file:///d:/Projects/DEV/xIPTV/Planning-X/Memory/xBackend/Tenants/server109/MEMORY.md) |
+| `server111` | `111` | Lujan de Cuyo | `IMP24C-VIRTUAL` (20 MUX) | `IRD-16` | `Sin relevar` | 1 | `2026-11-24` | [`server111/MEMORY.md`](file:///d:/Projects/DEV/xIPTV/Planning-X/Memory/xBackend/Tenants/server111/MEMORY.md) |

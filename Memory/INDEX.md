@@ -1,4 +1,4 @@
-# INDEX.md - Catálogo Central de Memoria Técnica (Planning-X)
+﻿# INDEX.md - Catálogo Central de Memoria Técnica (Planning-X)
 
 Este índice es la fuente de consulta unificada para que cualquier agente o desarrollador que opere en **xBackend**, **xManager** o cualquiera de los subsistemas pueda recuperar antecedentes técnicos, decisiones de arquitectura y notas de diseño previas.
 
@@ -47,6 +47,7 @@ Para crear una nueva nota, utilice la plantilla: [`TEMPLATE_NOTA_MEMORIA.md`](fi
 | **xFast & xManager** | Playout / Streamer | Control & Analítica Canal Local (`REQ-2026-010`) | [Canal_Local_Control_Analitica.md](file:///d:/Projects/DEV/xIPTV/Planning-X/Memory/xFast/Playout/Canal_Local_Control_Analitica.md) | Activo |
 | **xVodagent** | Ingesta y Sync | Transferencia Multimedia y Hashing | [Sync_Media_Agent.md](file:///d:/Projects/DEV/xIPTV/Planning-X/Memory/xVodagent/Ingesta/Sync_Media_Agent.md) | Activo |
 | **xWorker** | Infraestructura | Automatización Proxmox/Ubuntu y MCP Tenants | [Orquestacion_Proxmox_Ubuntu_Tenants.md](file:///d:/Projects/DEV/xIPTV/Planning-X/Memory/xWorker/Infraestructura/Orquestacion_Proxmox_Ubuntu_Tenants.md) | Activo |
+| **xRoster** | Core / Agentes IA | War Room WhatsApp (`Jarvis`, `Sentinel`, `Tank`, `Shikamaru`) & `xrosterdb` (`RFC-2026-003` / `REQ-2026-012`) | [Arquitectura_Fase1.md](file:///d:/Projects/DEV/xIPTV/Planning-X/Memory/xRoster/Core/Arquitectura_Fase1.md) | Fase 1 Implementada |
 
 ---
 
